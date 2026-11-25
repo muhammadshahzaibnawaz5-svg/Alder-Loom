@@ -1,0 +1,6 @@
+{
+  "name": "Alder & Loom",
+  "description": "Contemporary furniture studio showroom specializing in sofas, lounge chairs, and occasional tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
